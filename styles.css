@@ -4,12 +4,30 @@
   --txtColorParagraph: hsl(220, 15%, 55%);
 }
 
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
 body {
   background-color: var(--bgColor);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#qr-code {
+  border-radius: 4mm;
 }
 
 .card {
   background-color: white;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 15px;
+  border-radius: 4mm;
 }
 
 h1 {
