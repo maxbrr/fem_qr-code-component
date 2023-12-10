@@ -1,0 +1,6 @@
+:root {
+  --customWhite: hsl(0, 0%, 100%);
+  --bgColor: hsl(212, 45%, 89%);
+  --qrCodeBg: hsl(218, 44%, 22%);
+  --grayishBlue: hsl(220, 15%, 55%);
+}
