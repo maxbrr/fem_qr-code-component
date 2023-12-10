@@ -3,3 +3,19 @@
   --txtColorHeading: hsl(218, 44%, 22%);
   --txtColorParagraph: hsl(220, 15%, 55%);
 }
+
+body {
+  background-color: var(--bgColor);
+}
+
+.card {
+  background-color: white;
+}
+
+h1 {
+  color: var(--txtColorHeading);
+}
+
+p {
+  color: var(--txtColorParagraph);
+}
