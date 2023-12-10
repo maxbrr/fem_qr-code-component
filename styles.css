@@ -32,8 +32,10 @@ body {
 
 h1 {
   color: var(--txtColorHeading);
+  font-weight: 900;
 }
 
 p {
   color: var(--txtColorParagraph);
+  font-size: 15px;
 }
