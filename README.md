@@ -23,7 +23,7 @@ To implement cross-device compatibilty, a media query was used
 ### Screenshot
 
 - Mobile-View: [Mobile-View](https://maxbrr.github.io/fem_qr-code-component/screenshots/maxbrr.github.io_fem_qr-code-component_(iPhone%20SE).png)
-- Desktop-View: [Desktop-View](https://maxbrr.github.io/fem_qr-code-component/screenshots/maxbrr.github.io_fem_qr-code-component_(DESKTOP (1440 x 900)).png)
+- Desktop-View: [Desktop-View](https://maxbrr.github.io/fem_qr-code-component/screenshots/maxbrr.github.io_fem_qr-code-component_(DESKTOP).png)
 
 ### Links
 
